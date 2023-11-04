@@ -1,10 +1,11 @@
-
 ---
+title: "Arbeidskrav 5: Studiedesign"
 format: pdf
+editor: visual
 bibliography: referanser/referanser.bib
 ---
 
-I dette arbeidskravet skal vi se på hvordan ulike gjennomførte studier har blitt designet og hvordan de har gjennomført sitt studiedesign og hva statistiske analyser de har gjennomført. Jeg har valgt å ta utgangspunkt i fem studier som omhandler block periodisering av utholdenhetstrening. Studiene er Fellestrekket for disse studiene er at alle er gjort på en gruppe utøvere som holder svært høyt nivå innenfor sine idretter. Kajakk og solli bruker utøvere som er i den absolutte verdenstoppen innen for sine idretter. Men hva er blokk periodisering av utholdenhetstrening? I B.R. Rønnestad et al. (2012) blir det definert som en type modell for trening, der en dele det opp i kortare perioder (1-4 uker). I disse kortere periodene vill en ha fokus på å forbedre en spesifikk egenskap, som for eksempel VO2𝑚𝑎𝑘𝑠. Før en da kan i neste periode ha et større fokus på en annen faktor som er med på påvirker prestasjonen i den gitte idretten.
+I dette arbeidskravet skal vi se på hvordan ulike gjennomførte studier har blitt designet og hvordan de har gjennomført sitt studiedesign og hva statistiske analyser de har gjennomført. Jeg har valgt å ta utgangspunkt i fem studier som omhandler block periodisering av utholdenhetstrening. Studiene er Fellestrekket for disse studiene er at alle er gjort på en gruppe utøvere som holder svært høyt nivå innenfor sine idretter. Kajakk og solli bruker utøvere som er i den absolutte verdenstoppen innen for sine idretter. Men hva er blokk periodisering av utholdenhetstrening? I @br_ronnestad_effects_2012 blir det definert som en type modell for trening, der en dele det opp i kortare perioder (1-4 uker). I disse kortere periodene vill en ha fokus på å forbedre en spesifikk egenskap, som for eksempel VO2𝑚𝑎𝑘𝑠. Før en da kan i neste periode ha et større fokus på en annen faktor som er med på påvirker prestasjonen i den gitte idretten.
 
 ## Studienes spørsmål
 
