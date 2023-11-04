@@ -1,0 +1,94 @@
+---
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+arbeidskrav 5 studiedesign Arbeidskrav 5: Studiedesign I dette arbeidskravet skal vi se på hvordan ulike gjennomførte studier har blitt designet og hvordan de har gjennomført sitt studiedesign og hva statistiske analyser de har gjennomført.
+Jeg har valgt å ta utgangspunkt i fem studier som omhandler block periodisering av uthold- enhetstrening.
+Studiene er Guro Strøm Solli, Espen Tønnessen, and Øyvind Sandbakk (2019), B.R.
+Rønnestad et al. (2012), Fabio A. Breil et al. (2010), Rønnestad, Hansen, and Ellefsen (2014), García-Pallarés et al. (2010).
+Fellestrekket for disse studiene er at alle er gjort på en gruppe utøvere som holder svært høyt nivå innenfor sine idretter.
+Kajakk og solli bruker utøvere som er i den absolutte verdenstoppen innen for sine idretter.
+Men hva er blokk periodisering av utholdenhetstrening?
+I B.R. Rønnestad et al. (2012) blir det definert som en type modell for trening, der en dele det opp i kortare perioder (1-4 uker).
+I disse kortere periodene vill en ha fokus på å forbedre en spesifikk egenskap, som for eksempel VO2𝑚𝑎𝑘𝑠.
+Før en da kan i neste periode ha et større fokus på en annen faktor som er med på påvirker prestasjonen i den gitte idretten.
+Studienes spørsmål Dett er 5 studier som tar for seg noe av det samme treningsprinsippet, men som har blitt gjennomført på forskjellig måte.
+Alle studiene har til felles at de ønsker å se på om det har vert eller en kan skape en forbedring ved å organisere trening som en blokk periodsering en det som en kan kategorisere som normal måte å gjennomføre utholdenhetstrening.
+I B.R. Rønnestad et al. (2012) og Rønnestad, Hansen, and Ellefsen (2014) blir denne tradisjonelle formen (TRAD) for utholdenhets trening beskrevet som to høy intensive økter i løpet av en trenings uke.
+Utover dette fyller en gjerne på med rolig trening.
+Alle studiene har som vi skal se på i denne oppgaven stiller sei spørsmålet om en BP kan forbedre faktorer som er avgjørende for prestasjonen i utholdenhetsidrett.
+Ut i fra Browner 2023 sine ulike type studiedesign så er dette en god beskrivelse av våre studier.
+1
+
+Vi har i vårt utvalg av studier en gruppe studier som kan kategoriseres som "randomized blinded trial"(RBT).
+Dette er det som er det "klassiske oppsettet for en studie innenfor idretts- forskingen. Der en har en gruppe som blir utsatt for et stimuli og en gruppe som er en kontroll gruppe. Rønnestad et al sine to studier er satt opp etter denne formen for studiedesign. alpint studien har det samme oppsettet, men den skiller seg like vell fra rønnestat et.al. I de to studiene til Rønnestad et.al så er det et oppsett der en skal ha et like stort treningsvolum i TRAD og BP. Dette vill si at når en teller opp skal en ha like mange høy intensive økter(HIT) i både TRAD og BP. Den eneste forskjellen er hvordan en plassere disse øktene i forhold til hverandre. Mens i Alpint studien er der en gruppe gjennomfører en BP. Men i motsettning til de to studiene til Rønnestad så er det stor forskjell til TRAD gruppen. Da denne gruppen forsette å trene som normalt, gjør dette at det sammenhengende treningstimulie blir veldig forskjellig. Kajakk studien kan vi se på en studie som er midt i mellom de andre studiene. Denne skiller sei fra de andre med at den bruke de samme 10 utøverene for å undersøke effekten av begge måtene å organisere trening. Den er også unik med tanke på at denne gjøres over 2 år, der utøverene de ene åre gjennomfører BP og det andre året TRAD trening. Dette er også i forbindelse med oppkjøringen til flere internasjonale mesterskap. Der en har utøvere som skal være med å kjempe om store resultater. No som gjør denne studien unikt etter min mening, at en klarer å endre såpass mye på treningen til disse utøverene. Case studien til Solli og Sandbakk. Denne tar for seg tidens meste vinnende langrennsløper, med et utgangspunkt i et systematisk gjennomgang av hennes treningsdagbøker. Studien bruker to treningsår som utgangspunkt. Et som ble gjennomført med TRAD og et som blei gjennomført med BP. Studiedesign Statistikk Det statistiske arbeidet både før, under og etter studiene er gjort på samme måte. De blei ikke i noen av studiene gjort en kalkulering av statistisk power på forhånd. Hvordan utgangspunktet da har vert for å rekruttere . Alle studiene brukte et signifikant nivå på 0,05, for å kunne avgjøre forskjellene mellom de to gruppene som gjennomførte TRAD og BP. Med et testbatteri i flere av studiene som inkluderte flere variabler, er det ikke alle vi ser en signifikant forskjell. Kajakk studien bruker to andre tester enn hva som blir gjort i de andre. Dette er The Shapiro-Wilk test og Mann - Whitney U i sine analyser, som to tester som ser på normaliteten i de to gruppene. Forsøkspersoner Dette er fem studier som alle har det tilfelles at det er gjort på godt trente personer eller bedre. Kajakk og solli er studier som å gjort på utøvere som har prestert på topp internasjonalt nivå. 2
+
+Alle studiene ble gjort på en treningsgruppe, som er tilknyttet enten en skole eller landslag.
+Det ble ikke gått ut å gjort en bredd rekruttering i den brede befolkningen.
+Rønnestad et.al i sine studier refere til studien av Jeukendrup et.al 2000 for å kategorisere nivået til syklister.
+Ut i fra hans karaktriskker så er det ikke så mange personer som kan passe disse kategoriene viss enn ønsker å gjennomføre forsking for å finne nye måter å forbedre prestasjonen til utøvere som skal prestere på topp nivå.
+Trening Alle studiene har en trenings intervensjon i studiene sine, men det er også gjort på en svært forskjellig måte.
+Rønnestad et.al har to studie der trenings intervensjon inneholder et like stort volum, men det en vesentlig forskjell i orgaiseringen.
+No som gir oss et godt utgangspunkt for å sjå på forskjellene.
+Alpint studien er som tidligere beskrevet også enn RBT studie som de to studiene fra Rønnestad et.al.
+Men de skiller sei litt fra Rønnestad, med at det er en stor forskjell i trening til kontrollgruppen.
+I Alpintstudien så har en ikke lagt like stor vekt på å ha et likt treningssvolum i de to gruppene.
+Det er også en stor forskjell i type trening som ble gjort i de to studiene, noe som er en realtiv stor feilkilde.
+Men på bakgrunn av at Solli og Sandbakk har en casestudie, så vill deres trenings intervensjon være svært forskjellig fra de andre studiene.
+Det er også det som er det store spørsmålet ved denne studien, er at det er 10 år mellom de to treningsåra som blir sammenlignet.
+For med 10 kommer det også en stor andel annen trening inn i bilde.
+En vanlig treningsmengde for en langrennsløper vill være i område av 750 til 800 timer med utholdenhetstrening i året Solli og Sandbakk.
+Når vi da ser at det er 10 år mellom disse to treningsårene, utgjør dette en vesentlig stor treingsmengde som vill ha påvirkning på utøverens fysiske form.
+Kajakk studien gjennomfører treningen over en tidsperiode på to år.
+Denne perioden starta med et år med et år med TRAD, for så å gjennomføre BP i et år.
+I motsetning til de to studiene fra Rønnestad et.al så ble det i denne studien en forskjell i mengden trening i året en gjennomført TRAD og BP.
+En viktig punkt i treninga i denne studien er at i en overgang mellom de to sesongene ble det en periode på 5 uker der en hadde "overgangstreing" som var mere fritt og ikke skulle påvikre i den ene eller andre retiningen.
+Testing De fleste studier har en pre test og en post test i av disse utvalgte studiene.
+Selv om de gjør denne testingen på ulik måte.
+Det skilles litt i hva andre variabler som blir brukt, men det er overtydene i at laktatprofil og vo2 maks er en viktig variabel for å måle forskjellen mellom BP og TRAD.
+Enkelte studier som alpint/kajakk har også valgt å innkludere andre spesifikke tester for den spesifikke idretten i sitt testbatteri.
+I alpint er dette tester som foreksempel counten movment jump (CJ).
+Siden Solli og Sandbakk er en case studie som er gjort lenge etter at disse sesongene ble gjennomført, så gjennomførere disse ikke noe testing.
+No som gjør 3
+
+at vi ikke ser noe utvikling i de variablene som er viktig for prestasjon, og som vil kunne være viktig for å sjå på hva effekt de ulike treningsformene ga på denne utøveren.
+Resultat Så hva seier resultatene i disse fem studiene, som alle tar for seg BP vs. TRAD?
+Til tross for noe ulikhet i gjennomføringen av disse studiene, kan vi se at de er et samsvar med resultatene som fra alle fire av studiene.
+I Rønnestad et.al, alpint og kajakk ser en at BP gir en bedre eller som en bruke i kajakk en mer effektiv øke i viktige parameter som skal til for å prestere på et høyt nivå i utholdenhetsidretter.
+I resultat delen skiller Solli og sandbakk seg fra de andre studiene da denne ikke har gjennomført en testing i samme grad, og heller bruker talle fra utøveren treningsdagbok som resultat.
+Diskusjon Så med utgangspunkt i disse fem studiene, hva skal vi konkludere med?
+Det er alle studier som gir oss et godt utgangspunkt for å kunne vurdere forskjellen mellom en tradisjonell bruk av periodisering eller block periodisering.
+Selv om både Solli og sandbakk og kajakk bruker samme utøvere som referanse punkt på begge metoder, og har i den form god svar på hvordan de ulike typene for trening fungere.
+Så er det enkelte svakheter med dette.
+Solli og Sandbakk bruker to treningsår som er 10 år mellom og mange treningstimer.
+Mens kajakk bruker 2 år etter hverandre, men her er det veldig forskjell i mengden trening som blir lagt ned i de to åra.
+Rønnestad et.al er veldig tydelig på det like treningsvolumet i sine studier, gir dette oss et bedre resultat på hvordan en skal organisere trening er usikkert.
+Men de veier opp for at de ikke bruker de samme personene i både TRAD og BP gruppen.
+B.R.
+Rønnestad, S. Ellefsen, H. Nygaard, E. E. Zacharoff, O. Vikmoen, J. Hansen, and J.
+Hallen.
+2012.
+"Effects of 12 Weeks of Block Periodization on Performance and Performance Indices in Well-Trained Cyclists." Scandinavian Journal of Medicine & Sicence in Sports, no. 24: 327--35.
+https://doi.org/doi: 10.1111/sms.12016.
+Fabio A. Breil, Simone N. Weber, Stefan Koller, Stefan Koller, Hans Hoppeler, and Michael Vogt.
+2010.
+"Block Training Periodization in Alpine Skiing: eVects of 11-Day HIT on VO2max and Performance," no. 109: 1077--86.
+https://doi.org/DOI 10.1007/s00421-010- 1455-1.
+García-Pallarés, Jesús, Miguel García-Fernández, Luis Sánchez-Medina, and Mikel Izquierdo.
+2010.
+"Performance Changes in World-Class Kayakers Following Two Different Training Periodization Models." European Journal of Applied Physiology 110 (1): 99--107.
+https: //doi.org/10.1007/s00421-010-1484-9.
+Guro Strøm Solli, Espen Tønnessen, and Øyvind Sandbakk.
+2019.
+"Block Vs. Traditional Periodization of HIT: Two Different Paths to Success for the World's Best Cross-Country Skier." Frontiers in Physiology 10 (375): 11.
+https://doi.org/10.3389/fphys.2019.00375.
+4
+
+Rønnestad, B. R., J. Hansen, and S.
+Ellefsen.
+2014.
+"Block Periodization of High‐intensity Aerobic Intervals Provides Superior Training Effects in Trained Cyclists." Scandinavian Journal of Medicine & Science in Sports 24 (1): 34--42.
+https://doi.org/10.1111/j.1600- 0838.2012.01485.x.
+5
